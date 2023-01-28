@@ -1,0 +1,61 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_E155A2F2_F282_773C_41EC_343844F981A4.text = Chennai Airport
+HotspotPanoramaOverlayTextImage_E04325A9_F286_3D2C_41CA_3F48C40BBB72.text = Chennai Port 
+HotspotPanoramaOverlayTextImage_E066A8A3_F286_53DC_41E9_E14E7B104C5A.text = Ennore Port
+
+### Tooltip
+HotspotPanoramaOverlayArea_C4B880EE_F282_3325_4199_0677EF847538.toolTip = Aerial View
+HotspotPanoramaOverlayArea_DC173E9B_F286_4FEC_41C2_C67413282766.toolTip = Empty Palette
+HotspotPanoramaOverlayArea_C0D9EA8F_F286_77E4_41D4_814636D21591.toolTip = Empty Palette
+HotspotPanoramaOverlayArea_FB0D70C6_E8DF_8D49_41B5_190EA233DDAF.toolTip = Entrance 
+HotspotPanoramaOverlayArea_FB2B7A08_E8D5_BCD9_41D2_475493CBA67C.toolTip = Facade
+HotspotPanoramaOverlayArea_D8ACDE68_F282_CF2C_41CE_FD028ED75BB6.toolTip = Fire Extinguisher
+HotspotPanoramaOverlayArea_D95FDFB1_F286_4D3C_41D3_33D0404D42D4.toolTip = Inbound & OutBound Area 
+HotspotPanoramaOverlayArea_C36C3B2E_F287_D524_41D0_B41447B7F790.toolTip = Loading Area
+HotspotPanoramaOverlayArea_D9A303CF_F282_5564_41E3_916B5147489E.toolTip = Office 
+HotspotPanoramaOverlayArea_C8794243_F282_375C_41E7_A9B74C7CADF6.toolTip = Staging Area
+HotspotPanoramaOverlayArea_C7C08403_C8BB_123D_41DC_0A6394310955.toolTip = Storage Area
+HotspotPanoramaOverlayArea_C55BEC6A_F286_732C_41E1_696C9F172AAE.toolTip = Unloading Area
+
+## Media
+
+### Image
+imlevel_EEA77561_F7DB_0071_41E5_FDE73C64A6ED.url = media/panorama_E70FF2BF_E82C_8D37_41EB_346E071B75BC_HS_kggj8wpz_en.png
+imlevel_EEA7C58C_F7DB_00B0_41B1_E31C57EC9F85.url = media/panorama_E70FF2BF_E82C_8D37_41EB_346E071B75BC_HS_xwp5zgn1_en.png
+imlevel_EEA75548_F7DB_01BF_41DD_66B5BFB96A62.url = media/panorama_E70FF2BF_E82C_8D37_41EB_346E071B75BC_HS_zqinqcr2_en.png
+imlevel_EDCC3B56_F73B_0053_41B3_3BA13B8EE8AB.url = media/panorama_F3EDF43B_E82C_F53F_41E7_CF684C463CF6_HS_lnt2sqnz_en.png
+
+### Title
+panorama_E95CFFFC_F210_B12E_41B9_0CB7A77B0EAC.label = DJI_0013
+panorama_E70FF2BF_E82C_8D37_41EB_346E071B75BC.label = DJI_0018
+panorama_F3EDF43B_E82C_F53F_41E7_CF684C463CF6.label = Image 1
+panorama_E62D7E46_F230_F35A_41E8_3CFDE1DBBC77.label = Image 10
+panorama_C29DD649_C8AD_7ECD_41C0_68BF7496BFD3.label = Image 11
+panorama_C29D9B9F_C8AD_7645_41E5_0588C6BB967C.label = Image 12
+panorama_E65A7460_F211_5756_41A2_8B6CA16EBD9A.label = Image 13
+panorama_E662200B_F213_4EEB_41E7_27FEF952C901.label = Image 14
+panorama_E5573C17_F211_76FB_41DB_2F8AC78C218E.label = Image 15
+panorama_E78D67A3_F231_51DB_41BA_BED37BD69038.label = Image 16
+panorama_E70310D6_F230_CF7D_41E0_86E6E16364FB.label = Image 17
+panorama_E630E3C4_F211_F15E_41E3_D274480C0E60.label = Image 18
+panorama_C29E2239_C8AD_164D_41E0_2D815394AC32.label = Image 19
+panorama_DE8A5659_F2BE_3F6C_41EB_23F8927C7A61.label = Image 20
+panorama_C29E22E5_C8AD_F7C5_41D7_EA06E8DAA6EC.label = Image 22
+panorama_EEE43A3A_F231_5335_41EB_39311471A0BC.label = Image 23
+panorama_E6B0DF51_F210_D176_41D2_0C4D30EC2F5F.label = Image 3
+panorama_E4900592_F190_3E65_41DD_94DC2C263166.label = Image 4
+panorama_E6498D6F_F210_D12B_4179_2BABBA080E1A.label = Image 5
+panorama_C29DB0AA_C8AD_124F_41CC_FD59019FBA4B.label = Image 7
+panorama_E66186B9_F211_5337_41D9_2785AA8C736A.label = Image 8
+panorama_E72D11EA_F210_D155_41E5_98D0B3BE5776.label = Image 9
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
